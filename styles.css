@@ -531,14 +531,6 @@ header {
     margin-bottom: 0.5rem;
   }
 
-  .work-arrow-2 a {
-    font-size: 2.5rem;
-    text-decoration: none;
-    color: #ffffff;
-    display: block;
-    text-align: center;
-  }
-
   .contact-content {
     width: 100%;
   }
@@ -607,7 +599,7 @@ header {
   }
 
   .work-arrow-2 a:hover{
-    color: #ffffff;
+    color: #ca0606;
   }
 
   .contact-content {
@@ -654,7 +646,7 @@ header {
   .work-arrow-2 a {
     font-size: 2rem;
     text-decoration: none;
-    color: #c7c7c7;
+    color: #d4d1d1;
     display: block;
     text-align: center;
     text-shadow: rgb(24, 24, 24) 1px 0 10px;
